@@ -18,12 +18,16 @@ JavaScript: Para animaciones de los productos al hacer scroll con IntersectionOb
 HTML / CSS: Para la estructura y el estilo responsivo de la pagina.
 
 Flexbox y Grid: Para organizar el layout de manera clara y adaptable.
+Contraseñas seguras con hash gurdadas en la base de datos.
 
-Lo que he logrado
+Lo que he logrado:
 
 Crear un catalogo completo de productos, incluyendo nombre, descripcion, precio, imagen y video.
+
 Como buena practica,cree un archivo llamado conexion.php que contiene la conexion a la base de datos y retorna la conexion en una variable conexion,asi si toca cambiar algun dato en la conexion no hace falta ir cambiando en cada archivo,esto es importante porque a la hora de desplegar hay que cambiar si os si el host... y gracias a realizarlo de esa forma solo hay que cambiar el archivo principal.
+
 Tambien en la carpeta conf he creado un archivo llamado footer que contiene el footer y asi poder utilizarlo en varias paginas del proyecto sin tener que repetir codigo gracias a include.
+
 Implementar un carrito de compras que calcula automaticamente la cantidad total y el precio acumulado.
 
 Hacer que los productos aparezcan con animaciones suaves gracias a JS e IntersectionObserver.
