@@ -1,7 +1,6 @@
 ZapStore
-Descripcion del proyecto
 
-He creado ZapStore, una tienda online de calzado, usando PHP para el backend y MySQL como base de datos. En este proyecto, he logrado que los usuarios puedan navegar por los productos, añadirlos al carrito y consultar los detalles completos de cada producto de manera segura.
+He creado ZapStore, una tienda online de zapatos, usando PHP para el backend y MySQL como base de datos. En este proyecto, he logrado que los usuarios puedan navegar por los productos, añadirlos al carrito y consultar los detalles completos de cada producto de manera segura.
 
 Me he asegurado de que todas las consultas a la base de datos sean preparadas y parametrizadas, previniendo cualquier intento de inyeccion SQL y manteniendo el proyecto seguro frente a ataques comunes.
 
