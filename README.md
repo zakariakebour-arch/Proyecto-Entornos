@@ -7,6 +7,7 @@ Me he asegurado de que todas las consultas a la base de datos sean preparadas y 
 
 En el frontend, he utilizado JavaScript y la API de IntersectionObserver para que los productos y las tarjetas aparezcan de manera animada al hacer scroll, mejorando la experiencia del usuario y haciendo la pagina mas atractiva.
 
+Me he encargado tambien de explicar cada parte de codigo del pryecto entero.
 Tecnologias utilizadas
 
 PHP: Para la logica de backend, manejo de sesiones y consultas seguras a la base de datos.
